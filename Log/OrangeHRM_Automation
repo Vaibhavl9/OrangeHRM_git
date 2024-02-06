@@ -1,0 +1,1138 @@
+ 2024-01-07 20:18:35,011 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-07 20:18:35,016 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-07 20:18:35,016 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-07 20:18:49,038 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-07 20:18:49,732 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-07 20:18:49,762 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-07 20:18:55,222 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-07 20:18:56,990 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-07 20:18:57,502 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-07 20:18:59,789 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-07 20:24:53,220 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-07 20:24:53,225 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-07 20:24:53,225 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-07 20:25:05,105 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-07 20:25:42,194 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-07 20:25:42,195 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-07 20:25:42,195 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-07 20:25:53,249 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-07 20:45:28,015 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-07 20:45:28,015 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-07 20:45:28,015 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-07 20:45:43,142 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-07 20:45:44,145 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-07 20:45:44,175 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-07 20:45:49,571 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-07 20:45:50,889 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-07 20:45:51,395 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-07 20:45:53,684 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-07 20:47:01,102 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-07 20:47:01,102 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-07 20:47:01,102 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-07 20:47:12,520 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-07 20:47:13,553 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-07 20:47:13,583 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-07 20:47:18,598 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-07 20:47:19,735 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-07 20:47:20,814 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-07 20:47:23,087 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-07 22:37:50,095 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-07 22:37:50,165 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-07 22:37:50,165 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-07 22:38:20,698 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-07 22:38:22,597 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-07 22:38:22,685 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-07 22:38:28,539 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-07 22:38:29,792 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-07 22:38:30,411 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-07 22:38:32,709 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-07 22:55:02,502 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-07 22:55:02,502 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-07 22:55:02,502 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-07 22:55:14,213 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-07 22:55:15,082 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-07 22:55:15,107 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-07 22:55:19,998 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-07 22:55:21,056 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-07 22:55:21,539 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-07 22:55:23,810 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-07 22:57:05,551 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-07 22:57:05,551 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-07 22:57:05,551 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-07 22:57:14,418 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-07 22:57:15,223 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-07 22:57:15,253 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-07 22:57:17,190 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-07 22:57:19,095 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-07 22:57:19,963 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-07 22:57:22,259 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-07 22:58:50,644 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-07 22:58:50,649 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-07 22:58:50,649 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-07 22:58:59,786 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-07 22:59:00,570 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-07 22:59:00,600 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-07 22:59:05,459 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-07 22:59:06,618 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-07 22:59:07,351 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-07 22:59:09,631 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-08 16:21:29,116 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-08 16:21:29,132 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-08 16:21:29,132 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-08 16:23:11,827 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-08 16:23:20,067 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-08 16:23:20,191 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-08 16:23:20,259 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-08 16:23:25,436 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-08 16:35:18,792 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-08 16:35:18,792 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-08 16:35:18,792 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-08 16:36:47,760 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-08 16:36:54,363 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-08 16:36:54,564 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-08 16:37:09,064 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-08 16:37:11,291 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-08 16:37:12,775 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-08 16:37:15,042 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-08 16:49:39,993 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-08 16:49:39,993 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-08 16:49:39,993 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-08 16:49:49,679 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-08 16:49:50,464 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-08 16:49:50,494 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-08 16:49:56,281 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-08 16:49:57,965 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-08 16:49:58,546 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-08 16:50:00,820 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-08 16:50:22,858 : INFO : root : test_searchEmp_05 : 60 : No Search Found :
+ 2024-01-08 16:50:22,858 : INFO : root : test_searchEmp_05 : 61 : test_searchEmp_05 is Failed :
+ 2024-01-08 17:02:16,253 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-08 17:02:16,253 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-08 17:02:16,253 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-08 17:02:30,518 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-08 17:02:31,626 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-08 17:02:31,661 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-08 17:02:35,750 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-08 17:02:38,337 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-08 17:02:39,212 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-08 17:02:41,519 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-08 17:02:43,535 : INFO : root : test_searchEmp_05 : 50 : Search Found :
+ 2024-01-08 17:02:43,535 : INFO : root : test_searchEmp_05 : 51 : test_searchEmp_05 is Passed :
+ 2024-01-08 17:02:43,763 : INFO : root : test_searchEmp_05 : 53 : Click on MenuButton :
+ 2024-01-08 17:02:44,861 : INFO : root : test_searchEmp_05 : 55 : Click on Logout :
+ 2024-01-08 17:02:44,861 : INFO : root : test_searchEmp_05 : 57 : test_addEmp_03 is Passed :
+ 2024-01-08 17:02:49,350 : INFO : root : test_searchEmp_05 : 65 : test_searchEmp_05 is Completed :
+ 2024-01-08 17:22:39,096 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-08 17:22:39,096 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-08 17:22:39,096 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-08 17:22:52,141 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-08 17:22:53,087 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-08 17:22:53,122 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-08 17:22:55,524 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-08 17:22:57,333 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-08 17:22:57,963 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-08 17:23:00,262 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-08 17:31:13,636 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-08 17:31:13,636 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-08 17:31:13,636 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-08 17:31:27,244 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-08 17:31:28,009 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-08 17:31:28,054 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-08 17:31:32,309 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-08 17:31:34,204 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-08 17:31:34,774 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-08 17:31:37,047 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-08 17:31:59,073 : INFO : root : test_searchEmp_05 : 60 : No Search Found :
+ 2024-01-08 17:31:59,078 : INFO : root : test_searchEmp_05 : 61 : test_searchEmp_05 is Failed :
+ 2024-01-08 18:11:53,042 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-08 18:11:53,042 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-08 18:11:53,042 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-08 18:12:02,751 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-08 18:12:03,526 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-08 18:12:03,551 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-08 18:12:08,543 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-08 18:12:10,093 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-08 18:12:10,738 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-08 18:12:13,609 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-08 18:12:35,639 : INFO : root : test_searchEmp_05 : 60 : No Search Found :
+ 2024-01-08 18:12:35,639 : INFO : root : test_searchEmp_05 : 61 : test_searchEmp_05 is Failed :
+ 2024-01-08 18:31:15,058 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-08 18:31:15,058 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-08 18:31:15,058 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-08 18:31:30,027 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-08 18:31:31,140 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-08 18:31:31,217 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-08 18:31:36,352 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-08 18:31:38,098 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-08 18:31:38,702 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-08 18:31:40,999 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-08 18:32:03,026 : INFO : root : test_searchEmp_05 : 60 : No Search Found :
+ 2024-01-08 18:32:03,026 : INFO : root : test_searchEmp_05 : 61 : test_searchEmp_05 is Failed :
+ 2024-01-08 18:33:07,056 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-08 18:33:07,056 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-08 18:33:07,056 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-08 18:33:21,568 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-08 18:33:22,536 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-08 18:33:22,561 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-08 18:33:26,907 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-08 18:33:29,831 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-08 18:33:30,444 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-08 18:33:32,707 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-08 18:33:35,040 : INFO : root : test_searchEmp_05 : 50 : Search Found :
+ 2024-01-08 18:33:35,045 : INFO : root : test_searchEmp_05 : 51 : test_searchEmp_05 is Passed :
+ 2024-01-08 18:33:35,273 : INFO : root : test_searchEmp_05 : 53 : Click on MenuButton :
+ 2024-01-08 18:33:36,428 : INFO : root : test_searchEmp_05 : 55 : Click on Logout :
+ 2024-01-08 18:33:36,433 : INFO : root : test_searchEmp_05 : 57 : test_addEmp_03 is Passed :
+ 2024-01-08 18:33:39,123 : INFO : root : test_searchEmp_05 : 65 : test_searchEmp_05 is Completed :
+ 2024-01-08 18:34:39,694 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-08 18:34:39,694 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-08 18:34:39,694 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-08 18:34:51,673 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-08 18:34:52,713 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-08 18:34:52,738 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-08 18:34:56,575 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-08 18:34:57,882 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-08 18:34:58,487 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-08 18:35:00,783 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-08 18:35:02,849 : INFO : root : test_searchEmp_05 : 50 : Search Found :
+ 2024-01-08 18:35:02,849 : INFO : root : test_searchEmp_05 : 51 : test_searchEmp_05 is Passed :
+ 2024-01-08 18:35:03,096 : INFO : root : test_searchEmp_05 : 53 : Click on MenuButton :
+ 2024-01-08 18:35:04,400 : INFO : root : test_searchEmp_05 : 55 : Click on Logout :
+ 2024-01-08 18:35:04,400 : INFO : root : test_searchEmp_05 : 57 : test_addEmp_03 is Passed :
+ 2024-01-08 18:35:07,418 : INFO : root : test_searchEmp_05 : 65 : test_searchEmp_05 is Completed :
+ 2024-01-09 17:55:10,936 : INFO : root : test_searchEmp_05 : 25 : test_searchEmp_05 is Started :
+ 2024-01-09 17:55:10,958 : INFO : root : test_searchEmp_05 : 27 : test_searchEmp_05 is Started :
+ 2024-01-09 17:55:10,958 : INFO : root : test_searchEmp_05 : 28 : Opening Browser :
+ 2024-01-09 17:56:56,283 : INFO : root : test_searchEmp_05 : 30 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-09 17:56:59,396 : INFO : root : test_searchEmp_05 : 33 : Entering username-->Admin :
+ 2024-01-09 17:56:59,581 : INFO : root : test_searchEmp_05 : 35 : Entering password-->admin123 :
+ 2024-01-09 17:57:13,551 : INFO : root : test_searchEmp_05 : 37 : Click on login button :
+ 2024-01-09 17:57:14,831 : INFO : root : test_searchEmp_05 : 40 : Click on PIM :
+ 2024-01-09 17:57:15,424 : INFO : root : test_searchEmp_05 : 43 : Entering Emp Name :
+ 2024-01-09 17:57:17,787 : INFO : root : test_searchEmp_05 : 46 : Clicking on search button :
+ 2024-01-09 17:57:39,821 : INFO : root : test_searchEmp_05 : 60 : No Search Found :
+ 2024-01-09 17:57:40,073 : INFO : root : test_searchEmp_05 : 62 : Click on MenuButton :
+ 2024-01-09 17:57:41,425 : INFO : root : test_searchEmp_05 : 64 : Click on Logout :
+ 2024-01-09 17:57:41,425 : INFO : root : test_searchEmp_05 : 65 : test_searchEmp_05 is Failed :
+ 2024-01-14 18:37:27,797 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 18:37:27,827 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 18:37:47,728 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 18:37:48,790 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 18:37:48,894 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 18:37:48,971 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 18:38:14,608 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 18:38:14,609 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 18:38:20,018 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 18:38:20,827 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 18:38:20,936 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 18:38:21,004 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 18:40:05,591 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 18:40:05,591 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 18:40:19,645 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 18:40:20,606 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 18:40:20,712 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 18:40:22,104 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 18:59:51,425 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 18:59:51,426 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 19:00:10,394 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 19:00:11,480 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 19:00:11,587 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 19:00:11,646 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 19:00:33,181 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 19:00:33,182 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 19:00:43,441 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 19:00:44,311 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 19:00:44,425 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 19:00:44,492 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 19:18:23,488 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 19:18:23,493 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 19:18:29,858 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 19:18:41,239 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 19:18:42,671 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 19:18:51,151 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 19:18:56,132 : INFO : root : test_addEmp_03 : 38 : Click on PIM :
+ 2024-01-14 19:18:57,987 : INFO : root : test_addEmp_03 : 40 : Click on Add :
+ 2024-01-14 19:18:58,652 : INFO : root : test_addEmp_03 : 53 : Entering Firstname :
+ 2024-01-14 19:18:58,722 : INFO : root : test_addEmp_03 : 55 : Entering Middlename :
+ 2024-01-14 19:18:58,782 : INFO : root : test_addEmp_03 : 57 : Entering Lastname :
+ 2024-01-14 19:19:01,061 : INFO : root : test_addEmp_03 : 60 : Click on Save :
+ 2024-01-14 19:19:05,685 : INFO : root : test_addEmp_03 : 67 : test_addEmp_03 is Passed :
+ 2024-01-14 19:19:06,013 : INFO : root : test_addEmp_03 : 74 : Click on MenuButton :
+ 2024-01-14 19:20:46,403 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 19:20:46,404 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 19:21:08,960 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 19:21:09,747 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 19:21:09,851 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 19:21:09,931 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 19:21:13,510 : INFO : root : test_addEmp_03 : 38 : Click on PIM :
+ 2024-01-14 19:21:15,343 : INFO : root : test_addEmp_03 : 40 : Click on Add :
+ 2024-01-14 19:21:15,947 : INFO : root : test_addEmp_03 : 53 : Entering Firstname :
+ 2024-01-14 19:21:16,044 : INFO : root : test_addEmp_03 : 55 : Entering Middlename :
+ 2024-01-14 19:21:16,129 : INFO : root : test_addEmp_03 : 57 : Entering Lastname :
+ 2024-01-14 19:21:18,217 : INFO : root : test_addEmp_03 : 60 : Click on Save :
+ 2024-01-14 19:31:57,965 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 19:31:57,966 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 19:32:16,393 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 19:32:17,942 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 19:32:18,041 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 19:32:18,106 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 19:32:22,382 : INFO : root : test_addEmp_03 : 43 : Click on PIM :
+ 2024-01-14 19:32:23,534 : INFO : root : test_addEmp_03 : 45 : Click on Add :
+ 2024-01-14 19:32:24,265 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:32:24,351 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:32:24,427 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:32:26,521 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:34:33,541 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 19:34:33,541 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 19:34:40,137 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 19:34:42,688 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 19:34:43,462 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 19:34:46,172 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 19:34:48,834 : INFO : root : test_addEmp_03 : 43 : Click on PIM :
+ 2024-01-14 19:34:50,757 : INFO : root : test_addEmp_03 : 45 : Click on Add :
+ 2024-01-14 19:34:51,348 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:34:51,378 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:34:51,403 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:34:53,646 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:34:58,140 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:34:58,260 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:34:58,320 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:34:58,355 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:35:00,606 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:35:13,285 : INFO : root : test_addEmp_03 : 75 : test_addEmp_03 is Failed :
+ 2024-01-14 19:35:13,405 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:35:13,440 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:35:13,470 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:35:15,759 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:35:20,358 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:35:20,428 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:35:20,468 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:35:20,518 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:35:22,756 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:35:34,963 : INFO : root : test_addEmp_03 : 75 : test_addEmp_03 is Failed :
+ 2024-01-14 19:35:35,033 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:35:35,068 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:35:35,108 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:35:37,409 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:35:41,628 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:35:41,698 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:35:41,733 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:35:41,778 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:35:44,020 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:35:56,208 : INFO : root : test_addEmp_03 : 75 : test_addEmp_03 is Failed :
+ 2024-01-14 19:35:56,313 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:35:56,348 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:35:56,388 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:35:58,654 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:36:02,944 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:36:03,051 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:36:03,086 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:36:03,126 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:45:12,329 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 19:45:12,329 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 19:45:19,655 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 19:45:20,630 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 19:45:20,670 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 19:45:22,604 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 19:45:24,609 : INFO : root : test_addEmp_03 : 43 : Click on PIM :
+ 2024-01-14 19:45:26,235 : INFO : root : test_addEmp_03 : 45 : Click on Add :
+ 2024-01-14 19:45:28,378 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:45:28,408 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:45:28,433 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:45:30,698 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:45:35,509 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:45:37,622 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:45:37,667 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:45:37,702 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:45:39,942 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:45:44,108 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:45:46,230 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:45:46,280 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:45:46,340 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:45:48,605 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:45:52,790 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:45:54,910 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:45:54,940 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:45:54,970 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:45:57,220 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:46:01,231 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:46:03,344 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:46:03,369 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:46:03,394 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:46:05,665 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:46:09,907 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:46:12,024 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:46:12,064 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:46:12,099 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:46:14,352 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:46:18,515 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:46:20,626 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:46:20,656 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:46:20,681 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:46:22,940 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:46:26,987 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:46:29,087 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:46:29,117 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:46:29,142 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:46:31,416 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:46:35,498 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:46:37,581 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:46:37,611 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:46:37,636 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:46:39,897 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:46:43,969 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:46:46,064 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:46:46,094 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:46:46,119 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:46:48,375 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:46:52,474 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:46:52,694 : INFO : root : test_addEmp_03 : 79 : Click on MenuButton :
+ 2024-01-14 19:51:31,535 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 19:51:31,535 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 19:51:37,100 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 19:51:37,764 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 19:51:37,798 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 19:51:39,904 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 19:51:41,745 : INFO : root : test_addEmp_03 : 43 : Click on PIM :
+ 2024-01-14 19:51:43,333 : INFO : root : test_addEmp_03 : 45 : Click on Add :
+ 2024-01-14 19:51:45,450 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:51:45,485 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:51:45,520 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:51:47,771 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:51:52,011 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:51:54,108 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:51:54,133 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:51:54,163 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:51:56,422 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:52:00,527 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:52:02,639 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:52:02,664 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:52:02,694 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:52:04,948 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:52:09,237 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:52:11,346 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:52:11,386 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:52:11,411 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:52:13,669 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:52:18,030 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:52:20,131 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:52:20,156 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:52:20,186 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:52:22,456 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:52:26,746 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:52:28,846 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:52:28,871 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:52:28,901 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:52:31,151 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:52:35,262 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:52:37,334 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:52:37,359 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:52:37,389 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:52:39,657 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:52:43,837 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:52:45,936 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:52:45,966 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:52:45,991 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:52:48,244 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:52:52,397 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:52:54,484 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:52:54,509 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:52:54,534 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:52:56,792 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:53:00,889 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:53:02,991 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:53:03,021 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:53:03,046 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:53:05,309 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 19:53:09,551 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 19:53:11,786 : INFO : root : test_addEmp_03 : 80 : Click on MenuButton :
+ 2024-01-14 19:53:12,790 : INFO : root : test_addEmp_03 : 82 : Click on Logout :
+ 2024-01-14 19:53:15,797 : INFO : root : test_addEmp_03 : 85 : test_addEmp_03 is Completed :
+ 2024-01-14 19:55:29,268 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 19:55:29,269 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 19:55:47,147 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 19:55:47,878 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 19:55:48,008 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 19:55:48,100 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 19:55:51,243 : INFO : root : test_addEmp_03 : 43 : Click on PIM :
+ 2024-01-14 19:55:52,405 : INFO : root : test_addEmp_03 : 45 : Click on Add :
+ 2024-01-14 19:55:54,549 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 19:55:54,648 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 19:55:54,741 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 19:55:56,811 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:00:56,064 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 20:00:56,069 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 20:01:08,429 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 20:01:09,419 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 20:01:09,464 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 20:01:11,971 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 20:01:14,347 : INFO : root : test_addEmp_03 : 43 : Click on PIM :
+ 2024-01-14 20:01:15,969 : INFO : root : test_addEmp_03 : 45 : Click on Add :
+ 2024-01-14 20:01:18,100 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:01:18,141 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:01:18,176 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:01:20,479 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:01:24,522 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:01:26,644 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:01:26,674 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:01:26,709 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:01:28,963 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:01:33,109 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:01:35,268 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:01:35,298 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:01:35,328 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:01:37,628 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:01:41,712 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:01:43,808 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:01:43,833 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:01:43,858 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:01:46,110 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:01:50,176 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:01:52,257 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:01:52,277 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:01:52,302 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:01:54,566 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:01:58,700 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:02:00,823 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:02:00,853 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:02:00,878 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:02:03,136 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:02:07,360 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:02:09,447 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:02:09,482 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:02:09,512 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:02:11,760 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:02:16,052 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:02:18,178 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:02:18,204 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:02:18,229 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:02:20,491 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:02:24,543 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:02:26,660 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:02:26,680 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:02:26,711 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:02:28,968 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:02:33,012 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:02:35,113 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:02:35,145 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:02:35,170 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:02:37,423 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:02:41,604 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:02:43,860 : INFO : root : test_addEmp_03 : 80 : Click on MenuButton :
+ 2024-01-14 20:02:44,683 : INFO : root : test_addEmp_03 : 82 : Click on Logout :
+ 2024-01-14 20:02:48,379 : INFO : root : test_addEmp_03 : 85 : test_addEmp_03 is Completed :
+ 2024-01-14 20:03:54,354 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 20:03:54,354 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 20:03:59,867 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 20:04:00,558 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 20:04:00,588 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 20:04:02,577 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 20:04:04,511 : INFO : root : test_addEmp_03 : 43 : Click on PIM :
+ 2024-01-14 20:04:06,211 : INFO : root : test_addEmp_03 : 45 : Click on Add :
+ 2024-01-14 20:04:08,359 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:04:08,384 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:04:08,414 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:04:10,688 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:04:16,757 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:04:18,876 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:04:18,911 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:04:18,951 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:04:21,224 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:04:25,291 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:04:27,459 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:04:27,514 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:04:27,564 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:04:29,829 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:04:33,926 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:04:36,022 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:04:36,052 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:04:36,077 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:04:38,332 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:04:42,349 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:04:44,444 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:04:44,469 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:04:44,499 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:04:46,755 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:04:50,883 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:04:52,970 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:04:52,995 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:04:53,025 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:04:55,295 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:04:59,357 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:05:01,455 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:05:01,485 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:05:01,510 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:05:03,761 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:05:07,879 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:05:09,975 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:05:10,000 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:05:10,025 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:05:12,340 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:05:17,006 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:05:19,111 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:05:19,136 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:05:19,161 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:05:21,432 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:05:25,473 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:05:27,597 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 20:05:27,627 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 20:05:27,652 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 20:05:29,914 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 20:05:33,939 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 20:05:38,169 : INFO : root : test_addEmp_03 : 80 : Click on MenuButton :
+ 2024-01-14 20:05:38,954 : INFO : root : test_addEmp_03 : 82 : Click on Logout :
+ 2024-01-14 20:05:41,008 : INFO : root : test_addEmp_03 : 85 : test_addEmp_03 is Completed :
+ 2024-01-14 21:38:13,323 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 21:38:13,323 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 21:39:02,513 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 21:39:06,035 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 21:39:06,159 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 21:39:06,239 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 21:39:10,801 : INFO : root : test_addEmp_03 : 43 : Click on PIM :
+ 2024-01-14 21:39:13,332 : INFO : root : test_addEmp_03 : 45 : Click on Add :
+ 2024-01-14 21:39:15,504 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:39:15,658 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:39:15,774 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:39:18,060 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:39:23,939 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:39:26,064 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:39:26,166 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:39:26,281 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:39:28,345 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:39:35,350 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:39:37,527 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:39:37,651 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:39:37,770 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:39:39,838 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:39:46,370 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:39:48,507 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:39:48,600 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:39:48,698 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:39:50,780 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:39:56,330 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:39:58,480 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:39:58,572 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:39:58,690 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:40:00,776 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:40:06,544 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:40:08,692 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:40:08,786 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:40:08,872 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:40:10,956 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:40:17,816 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:40:19,989 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:40:20,110 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:40:20,238 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:40:22,301 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:40:28,116 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:40:30,256 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:40:30,350 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:40:30,452 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:40:32,533 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:40:37,642 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:40:39,781 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:40:39,880 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:40:39,973 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:40:42,065 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:40:47,459 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:40:49,593 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:40:49,717 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:40:49,821 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:40:51,887 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:40:57,283 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:40:59,351 : INFO : root : test_addEmp_03 : 80 : Click on MenuButton :
+ 2024-01-14 21:41:01,088 : INFO : root : test_addEmp_03 : 82 : Click on Logout :
+ 2024-01-14 21:41:02,035 : INFO : root : test_addEmp_03 : 85 : test_addEmp_03 is Completed :
+ 2024-01-14 21:42:05,635 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-14 21:42:05,636 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-14 21:43:41,586 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-14 21:43:44,444 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-14 21:43:44,554 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-14 21:43:44,629 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-14 21:43:47,339 : INFO : root : test_addEmp_03 : 43 : Click on PIM :
+ 2024-01-14 21:43:49,083 : INFO : root : test_addEmp_03 : 45 : Click on Add :
+ 2024-01-14 21:43:51,275 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:43:51,420 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:43:51,542 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:43:53,621 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:44:01,262 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:44:03,401 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:44:03,499 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:44:03,595 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:44:05,690 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:44:12,291 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:44:14,454 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:44:14,614 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:44:14,784 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:44:17,030 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:44:23,826 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:44:26,028 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:44:26,125 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:44:26,217 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:44:28,294 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:44:33,371 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:44:35,521 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:44:35,605 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:44:35,705 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:44:37,784 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:44:42,901 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:44:45,044 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:44:45,140 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:44:45,225 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:44:47,316 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:44:52,351 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:44:54,495 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:44:54,601 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:44:54,701 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:44:56,788 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:45:02,650 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:45:04,792 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:45:04,898 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:45:04,986 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:45:07,068 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:45:14,712 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:45:16,890 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:45:16,987 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:45:17,085 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:45:19,173 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:45:25,747 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:45:27,864 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-14 21:45:27,978 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-14 21:45:28,076 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-14 21:45:30,154 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-14 21:45:37,484 : INFO : root : test_addEmp_03 : 71 : test_addEmp_03 is Passed :
+ 2024-01-14 21:45:39,572 : INFO : root : test_addEmp_03 : 80 : Click on MenuButton :
+ 2024-01-14 21:45:40,446 : INFO : root : test_addEmp_03 : 82 : Click on Logout :
+ 2024-01-14 21:45:40,648 : INFO : root : test_addEmp_03 : 85 : test_addEmp_03 is Completed :
+ 2024-01-18 18:23:08,781 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-18 18:23:08,807 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-18 18:23:31,326 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 18:23:32,506 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-18 18:23:32,608 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-18 18:23:32,683 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-18 18:23:36,190 : INFO : root : test_addEmp_03 : 43 : Click on PIM :
+ 2024-01-18 18:23:37,619 : INFO : root : test_addEmp_03 : 45 : Click on Add :
+ 2024-01-18 18:23:39,771 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:23:39,858 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:23:39,942 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:23:42,024 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-18 18:24:08,164 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-18 18:24:08,166 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-18 18:24:20,863 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 18:24:21,936 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-18 18:24:22,036 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-18 18:24:22,106 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-18 18:24:26,356 : INFO : root : test_addEmp_03 : 43 : Click on PIM :
+ 2024-01-18 18:24:27,967 : INFO : root : test_addEmp_03 : 45 : Click on Add :
+ 2024-01-18 18:24:30,170 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:24:30,316 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:24:30,479 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:24:33,599 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-18 18:24:45,889 : INFO : root : test_addEmp_03 : 75 : test_addEmp_03 is Failed :
+ 2024-01-18 18:24:48,050 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:24:48,161 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:24:48,284 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:25:40,279 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-18 18:25:40,279 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-18 18:25:49,698 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 18:25:50,542 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-18 18:25:50,924 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-18 18:25:52,933 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-18 18:25:55,076 : INFO : root : test_addEmp_03 : 43 : Click on PIM :
+ 2024-01-18 18:25:56,722 : INFO : root : test_addEmp_03 : 45 : Click on Add :
+ 2024-01-18 18:25:59,695 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:25:59,735 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:25:59,780 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:26:02,025 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-18 18:26:14,253 : INFO : root : test_addEmp_03 : 75 : test_addEmp_03 is Failed :
+ 2024-01-18 18:26:16,346 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:26:16,376 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:26:16,401 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:42:50,510 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-18 18:42:50,510 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-18 18:43:01,888 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 18:43:03,093 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-18 18:43:03,198 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-18 18:43:05,062 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-18 18:43:08,214 : INFO : root : test_addEmp_03 : 43 : Click on PIM :
+ 2024-01-18 18:43:09,911 : INFO : root : test_addEmp_03 : 45 : Click on Add :
+ 2024-01-18 18:43:12,037 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:43:12,072 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:43:12,102 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:43:14,351 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-18 18:45:10,379 : INFO : root : test_addEmp_03 : 24 : test_addEmp_03 is started :
+ 2024-01-18 18:45:10,379 : INFO : root : test_addEmp_03 : 25 : Opening Browser :
+ 2024-01-18 18:45:24,709 : INFO : root : test_addEmp_03 : 27 : Go to this Url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 18:45:25,763 : INFO : root : test_addEmp_03 : 30 : Entering Username-->Admin :
+ 2024-01-18 18:45:25,798 : INFO : root : test_addEmp_03 : 32 : Entering Password-->admin123 :
+ 2024-01-18 18:45:30,952 : INFO : root : test_addEmp_03 : 34 : Click on login :
+ 2024-01-18 18:45:32,615 : INFO : root : test_addEmp_03 : 43 : Click on PIM :
+ 2024-01-18 18:45:34,535 : INFO : root : test_addEmp_03 : 45 : Click on Add :
+ 2024-01-18 18:45:36,703 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:45:36,746 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:45:36,781 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:45:39,023 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-18 18:45:45,831 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:45:45,867 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:45:45,897 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:45:48,141 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-18 18:45:54,515 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:45:54,540 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:45:55,815 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:45:58,068 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-18 18:46:04,531 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:46:04,561 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:46:04,586 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:46:06,835 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-18 18:46:21,097 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:46:21,122 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:46:21,152 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:46:23,401 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-18 18:46:37,648 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:46:37,678 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:46:37,713 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:46:39,955 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-18 18:46:54,158 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:46:54,188 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:46:54,213 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:46:56,449 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-18 18:47:10,743 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:47:10,768 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:47:10,788 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:47:13,038 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-18 18:47:27,357 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:47:27,387 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:47:27,417 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:47:29,656 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-18 18:47:43,870 : INFO : root : test_addEmp_03 : 56 : Entering Firstname :
+ 2024-01-18 18:47:43,890 : INFO : root : test_addEmp_03 : 58 : Entering Middlename :
+ 2024-01-18 18:47:43,905 : INFO : root : test_addEmp_03 : 60 : Entering Lastname :
+ 2024-01-18 18:47:46,144 : INFO : root : test_addEmp_03 : 63 : Click on Save :
+ 2024-01-18 18:48:02,415 : INFO : root : test_addEmp_03 : 82 : Click on MenuButton :
+ 2024-01-18 18:48:03,718 : INFO : root : test_addEmp_03 : 84 : Click on Logout :
+ 2024-01-18 18:48:03,718 : INFO : root : test_addEmp_03 : 89 : test_addEmp_03 is Failed :
+ 2024-01-18 19:48:40,508 : INFO : root : test_login_ddt_06 : 23 : test_login_ddt_06 is Started :
+ 2024-01-18 19:48:40,604 : INFO : root : test_login_ddt_06 : 24 : Opening Browser :
+ 2024-01-18 19:48:56,151 : INFO : root : test_login_ddt_06 : 23 : test_login_ddt_06 is Started :
+ 2024-01-18 19:48:56,151 : INFO : root : test_login_ddt_06 : 24 : Opening Browser :
+ 2024-01-18 19:49:10,455 : INFO : root : test_login_ddt_06 : 23 : test_login_ddt_06 is Started :
+ 2024-01-18 19:49:10,455 : INFO : root : test_login_ddt_06 : 24 : Opening Browser :
+ 2024-01-18 19:49:34,433 : INFO : root : test_login_ddt_06 : 23 : test_login_ddt_06 is Started :
+ 2024-01-18 19:49:34,433 : INFO : root : test_login_ddt_06 : 24 : Opening Browser :
+ 2024-01-18 19:51:37,077 : INFO : root : test_login_ddt_06 : 24 : test_login_ddt_06 is Started :
+ 2024-01-18 19:51:37,077 : INFO : root : test_login_ddt_06 : 25 : Opening Browser :
+ 2024-01-18 19:51:46,800 : INFO : root : test_login_ddt_06 : 27 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 19:56:36,894 : INFO : root : test_login_ddt_06 : 21 : test_login_ddt_06 is Started :
+ 2024-01-18 19:56:36,894 : INFO : root : test_login_ddt_06 : 22 : Opening Browser :
+ 2024-01-18 19:56:47,713 : INFO : root : test_login_ddt_06 : 24 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 19:59:05,710 : INFO : root : test_login_ddt_06 : 21 : test_login_ddt_06 is Started :
+ 2024-01-18 19:59:05,710 : INFO : root : test_login_ddt_06 : 22 : Opening Browser :
+ 2024-01-18 19:59:10,794 : INFO : root : test_login_ddt_06 : 24 : Go to this URL-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 19:59:11,651 : INFO : root : test_login_ddt_06 : 34 : Entering username-->Admin :
+ 2024-01-18 19:59:11,690 : INFO : root : test_login_ddt_06 : 36 : Entering password-->Admin :
+ 2024-01-18 19:59:13,821 : INFO : root : test_login_ddt_06 : 39 : Click on login button :
+ 2024-01-18 19:59:16,269 : INFO : root : test_login_ddt_06 : 44 : Click on Menu button :
+ 2024-01-18 19:59:17,275 : INFO : root : test_login_ddt_06 : 46 : Click on logout button :
+ 2024-01-18 19:59:17,776 : INFO : root : test_login_ddt_06 : 34 : Entering username-->Admin1 :
+ 2024-01-18 19:59:17,796 : INFO : root : test_login_ddt_06 : 36 : Entering password-->Admin1 :
+ 2024-01-18 19:59:18,837 : INFO : root : test_login_ddt_06 : 39 : Click on login button :
+ 2024-01-18 19:59:31,115 : INFO : root : test_login_ddt_06 : 34 : Entering username-->Admin :
+ 2024-01-18 19:59:31,152 : INFO : root : test_login_ddt_06 : 36 : Entering password-->Admin :
+ 2024-01-18 19:59:32,938 : INFO : root : test_login_ddt_06 : 39 : Click on login button :
+ 2024-01-18 19:59:45,799 : INFO : root : test_login_ddt_06 : 34 : Entering username-->Admin1 :
+ 2024-01-18 19:59:45,819 : INFO : root : test_login_ddt_06 : 36 : Entering password-->Admin1 :
+ 2024-01-18 19:59:46,600 : INFO : root : test_login_ddt_06 : 39 : Click on login button :
+ 2024-01-18 20:20:30,746 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:20:30,746 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:20:30,746 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:20:30,746 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:20:30,746 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:20:30,746 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:20:30,821 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:20:30,821 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:20:30,821 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:20:30,821 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:20:30,821 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:20:30,821 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:20:50,125 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:20:50,125 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:20:50,125 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:20:50,125 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:20:50,125 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:20:50,125 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:20:50,130 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:20:50,130 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:20:50,130 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:20:50,130 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:20:50,130 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:20:50,130 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:20:50,135 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:20:50,135 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:20:50,135 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:20:50,135 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:20:50,135 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:20:50,135 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:21:01,868 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:21:01,868 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:21:01,868 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:21:01,868 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:21:01,868 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:21:01,868 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:24:23,096 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:24:23,096 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:24:23,096 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:24:23,096 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:24:23,096 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:24:23,096 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:24:23,101 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:24:23,101 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:24:23,101 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:24:23,101 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:24:23,101 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:24:23,101 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:24:34,863 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:24:34,863 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:24:34,863 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:24:34,863 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:24:34,863 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:24:34,863 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:24:34,863 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:24:34,863 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:24:34,863 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:24:34,863 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:24:34,863 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:24:34,863 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:24:34,868 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:24:34,868 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:24:34,868 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:24:34,868 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:24:34,868 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:24:34,868 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:24:53,895 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:24:53,895 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:24:53,895 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:24:53,895 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:24:53,895 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:24:53,895 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:43:06,534 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:43:06,534 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:43:06,534 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:43:06,534 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:43:06,534 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:43:06,534 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:43:06,829 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:43:06,829 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:43:06,829 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:43:06,829 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:43:06,829 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:43:06,829 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:43:26,606 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:43:26,606 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:43:26,606 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:43:26,606 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:43:26,606 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:43:26,606 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:43:26,611 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:43:26,611 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:43:26,611 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:43:26,611 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:43:26,611 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:43:26,611 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:43:26,621 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:43:26,621 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:43:26,621 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:43:26,621 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:43:26,621 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:43:26,621 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:43:58,126 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:43:58,126 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:43:58,126 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:43:58,126 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:43:58,126 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:43:58,126 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:50:33,998 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:50:33,998 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:50:33,998 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:50:33,998 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:50:33,998 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:50:33,998 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-01-18 20:50:33,998 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:50:33,998 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:50:33,998 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:50:33,998 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:50:33,998 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:50:33,998 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-01-18 20:50:47,511 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:50:47,511 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:50:47,511 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:50:47,511 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:50:47,511 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:50:47,511 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-01-18 20:50:47,516 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:50:47,516 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:50:47,516 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:50:47,516 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:50:47,516 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:50:47,516 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-01-18 20:50:47,541 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:50:47,541 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:50:47,541 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:50:47,541 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:50:47,541 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:50:47,541 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-01-18 20:50:57,803 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:50:57,803 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:50:57,803 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:50:57,803 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:50:57,803 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-01-18 20:50:57,803 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-04 17:50:53,314 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-04 17:50:53,314 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-04 17:50:53,314 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-04 17:50:53,314 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-04 17:50:53,314 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-04 17:50:53,314 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-04 17:50:53,491 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-04 17:50:53,491 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-04 17:50:53,491 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-04 17:50:53,491 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-04 17:50:53,491 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-04 17:50:53,491 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-04 17:51:24,521 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-04 17:51:24,521 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-04 17:51:24,521 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-04 17:51:24,521 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-04 17:51:24,521 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-04 17:51:24,521 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-04 17:51:24,531 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-04 17:51:24,531 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-04 17:51:24,531 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-04 17:51:24,531 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-04 17:51:24,531 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-04 17:51:24,531 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-04 17:51:24,541 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-04 17:51:24,541 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-04 17:51:24,541 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-04 17:51:24,541 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-04 17:51:24,541 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-04 17:51:24,541 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-04 17:51:34,933 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-04 17:51:34,933 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-04 17:51:34,933 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-04 17:51:34,933 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-04 17:51:34,933 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-04 17:51:34,933 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-06 19:40:54,318 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:40:54,318 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:40:54,318 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:40:54,318 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:40:54,318 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:40:54,318 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:40:54,431 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:40:54,431 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:40:54,431 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:40:54,431 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:40:54,431 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:40:54,431 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:42:00,759 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:42:00,759 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:42:00,759 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:42:00,759 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:42:00,759 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:42:00,759 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:42:00,759 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:42:00,759 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:42:00,759 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:42:00,759 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:42:00,759 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:42:00,759 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:42:29,044 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:42:29,044 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:42:29,044 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:42:29,044 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:42:29,044 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:42:29,044 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:42:29,057 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:42:29,057 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:42:29,057 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:42:29,057 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:42:29,057 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:42:29,057 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:42:29,067 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:42:29,067 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:42:29,067 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:42:29,067 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:42:29,067 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:42:29,067 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:43:39,545 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:43:39,545 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:43:39,545 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:43:39,545 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:43:39,545 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:43:39,545 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:43:39,545 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:43:39,545 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:43:39,545 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:43:39,545 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:43:39,545 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:43:39,545 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:44:02,889 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:44:02,889 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:44:02,889 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:44:02,889 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:44:02,889 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:44:02,889 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:44:02,901 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:44:02,901 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:44:02,901 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:44:02,901 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:44:02,901 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:44:02,901 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:44:02,916 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:44:02,916 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:44:02,916 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:44:02,916 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:44:02,916 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:44:02,916 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:44:34,931 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-06 19:44:34,931 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-06 19:44:34,931 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-06 19:44:34,931 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-06 19:44:34,931 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-06 19:44:34,931 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-06 19:45:40,359 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:45:40,359 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:45:40,359 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:45:40,359 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:45:40,359 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:45:40,359 : INFO : root : test_pageTitle_01 : 23 : test_pageTitle_01 is started :
+ 2024-02-06 19:45:40,359 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:45:40,359 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:45:40,359 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:45:40,359 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:45:40,359 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:45:40,359 : INFO : root : test_pageTitle_01 : 24 : Opening Browser :
+ 2024-02-06 19:45:57,221 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:45:57,221 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:45:57,221 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:45:57,221 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:45:57,221 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:45:57,221 : INFO : root : test_pageTitle_01 : 26 : Go to this url-->https://opensource-demo.orangehrmlive.com/ :
+ 2024-02-06 19:45:57,230 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:45:57,230 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:45:57,230 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:45:57,230 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:45:57,230 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:45:57,230 : INFO : root : test_pageTitle_01 : 32 : test_pageTitle_01 is pass :
+ 2024-02-06 19:45:57,230 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:45:57,230 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:45:57,230 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:45:57,230 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:45:57,230 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:45:57,230 : INFO : root : test_pageTitle_01 : 33 : Page Title is-->OrangeHRM :
+ 2024-02-06 19:46:15,576 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-06 19:46:15,576 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-06 19:46:15,576 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-06 19:46:15,576 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-06 19:46:15,576 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
+ 2024-02-06 19:46:15,576 : INFO : root : test_pageTitle_01 : 41 : test_pageTitle_01 is completed :
